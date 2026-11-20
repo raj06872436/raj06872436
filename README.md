@@ -1,69 +1,50 @@
-<img src="assets/hero.svg" width="100%" alt="Raj Naik. I build practical software for India." />
+<img src="assets/hero.svg" width="100%" alt="Player 1: Raj Naik. Class: builder. Region: India. Main quest: LARX." />
 
 <p align="center">
-  <a href="https://larx-three.vercel.app"><img src="https://img.shields.io/badge/LARX-open%20live-a78bfa?style=flat-square&labelColor=0c0c14" alt="LARX live" /></a>
-  <a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="https://img.shields.io/badge/Speed%20Gun-try%20it-fbbf24?style=flat-square&labelColor=0c0c14" alt="Cricket Speed Gun" /></a>
-  <a href="https://raj06872436.github.io/SOULPRINT/"><img src="https://img.shields.io/badge/SOULPRINT-demo-f87171?style=flat-square&labelColor=0c0c14" alt="SOULPRINT demo" /></a>
-  <img src="https://komarev.com/ghpvc/?username=raj06872436&style=flat-square&color=22d3ee&label=views" alt="Profile views" />
+  <a href="https://larx-three.vercel.app"><img src="assets/btn-larx.svg" height="46" alt="Play LARX" /></a>
+  <a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="assets/btn-speedgun.svg" height="46" alt="Play Speed Gun" /></a>
+  <a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/btn-soulprint.svg" height="46" alt="Play SOULPRINT" /></a>
 </p>
 
-<img src="assets/h-work.svg" width="100%" alt="01 Featured work" />
+<img src="assets/t-map.svg" width="100%" alt="Select level" />
+<img src="assets/map.svg" width="100%" alt="World map of my projects, best first: LARX, AGRI-X, MarketPulse, Speed Gun, SOULPRINT, Fraud Lab, TableSense, History Helper, LeetCode Sync" />
 
-<table>
-<tr>
-<td width="50%"><a href="https://larx-three.vercel.app"><img src="assets/card-larx.svg" width="100%" alt="LARX: audits Indian companies across 12 pillars" /></a></td>
-<td width="50%"><a href="https://github.com/raj06872436/AI_Farming_Project"><img src="assets/card-agrix.svg" width="100%" alt="AGRI-X: plant disease detection" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/card-soulprint.svg" width="100%" alt="SOULPRINT: agent drift detection" /></a></td>
-<td width="50%"><a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="assets/card-cricket.svg" width="100%" alt="Cricket Speed Gun" /></a></td>
-</tr>
-</table>
+<img src="assets/t-quests.svg" width="100%" alt="Main quests" />
+
+<p align="center">
+  <a href="https://larx-three.vercel.app"><img src="assets/cart-larx.svg" width="49%" alt="World 1-1: LARX" /></a>
+  <a href="https://github.com/raj06872436/AI_Farming_Project"><img src="assets/cart-agrix.svg" width="49%" alt="World 1-2: AGRI-X" /></a>
+  <a href="https://github.com/raj06872436/MARKET_PULSE"><img src="assets/cart-marketpulse.svg" width="49%" alt="World 1-3: MarketPulse" /></a>
+  <a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="assets/cart-speedgun.svg" width="49%" alt="World 2-1: Cricket Speed Gun" /></a>
+  <a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/cart-soulprint.svg" width="49%" alt="World 2-2: SOULPRINT" /></a>
+  <a href="https://github.com/raj06872436/AI-final-project-"><img src="assets/cart-fraud.svg" width="49%" alt="World 2-3: Fraud Lab" /></a>
+</p>
 
 <details>
-<summary><b>&nbsp;+ 5 more projects</b></summary>
+<summary><b>&nbsp;🕹️ Side quests (world 3)</b></summary>
 <br />
 
-| | Project | What it does | Stack |
-| --- | --- | --- | --- |
-| 📈 | [**MarketPulse**](https://github.com/raj06872436/MARKET_PULSE) | Social listening for consumer brands: sentiment, trends and short-term forecasts | FastAPI, PostgreSQL, React, Docker |
-| 💳 | [**Fraud detection research**](https://github.com/raj06872436/AI-final-project-) | Early credit card fraud detection with LSTM/GRU and SHAP, evaluated without leakage | PyTorch, XGBoost, SHAP |
-| 🍽️ | [**TableSense**](https://github.com/raj06872436/restaurant_ai) | QR ordering, UPI payments and camera-based table tracking for restaurants, Hindi screens included | Node.js, Python, Docker |
-| 📜 | [**History Research Helper**](https://github.com/raj06872436/history-research-helper) | Fact-checks history scripts claim by claim against verified quotes | Python, Streamlit |
-| 🔁 | [**LeetCode GitHub Sync**](https://github.com/raj06872436/leetcode-github-sync) | Chrome extension that commits every accepted LeetCode solution to GitHub | JavaScript |
-
-<img src="assets/fraud.jpg" width="100%" alt="Transactions and fraud over 48 hours" />
-<sub>From the fraud project: transaction volume (line) against fraud cases (bars) over 48 hours.</sub>
+| Level | Quest | What it does | Loot |
+| :---: | --- | --- | --- |
+| 3-1 | [**TableSense**](https://github.com/raj06872436/restaurant_ai) | QR ordering, UPI payments and camera-based table tracking for restaurants, with Hindi screens | Node.js, Python, Docker |
+| 3-2 | [**History Research Helper**](https://github.com/raj06872436/history-research-helper) | Fact-checks history scripts claim by claim against verified quotes | Python, Streamlit |
+| 3-3 | [**LeetCode GitHub Sync**](https://github.com/raj06872436/leetcode-github-sync) | Chrome extension that commits every accepted LeetCode solution to GitHub ([my solutions](https://github.com/raj06872436/leetcode-solutions)) | JavaScript |
 
 </details>
 
-<img src="assets/h-tools.svg" width="100%" alt="02 Toolbox" />
+<img src="assets/t-inv.svg" width="100%" alt="Inventory" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgres,supabase,docker,git,linux,vercel&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, TensorFlow, PyTorch, PostgreSQL, Supabase, Docker, Git, Linux, Vercel" />
 </p>
 
-<img src="assets/h-activity.svg" width="100%" alt="03 Activity" />
+<img src="assets/t-score.svg" width="100%" alt="High scores" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=20&background=0C0C14&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A5B4FC&dates=64748B&stroke=26263A" width="62%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=0&background=140C2B&ring=FF3EA5&fire=FFD319&currStreakNum=FFFFFF&currStreakLabel=FFD319&sideNums=2DE2E6&sideLabels=F4F1FF&dates=8A7FB0&stroke=4B2A8A&card_width=600" width="62%" alt="Combo streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj06872436&bg_color=0c0c14&color=a5b4fc&line=a78bfa&point=22d3ee&area=true&area_color=7c3aed&title_color=ffffff&hide_border=true&radius=20" width="100%" alt="Contribution graph" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raj06872436/raj06872436/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/raj06872436/raj06872436/output/snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/raj06872436/raj06872436/output/snake-arcade.svg" width="100%" alt="Snake playing on my contribution grid" />
 </p>
 
-<details>
-<summary><b>&nbsp;LeetCode</b></summary>
-<br />
-
-I solve problems in C++ and they sync to [leetcode-solutions](https://github.com/raj06872436/leetcode-solutions) automatically through an extension I built.
-
-</details>
-
-<img src="assets/footer.svg" width="100%" alt="Thanks for scrolling" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for playing. Continue?" />
