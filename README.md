@@ -67,8 +67,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgres,supabase,docker,git,linux,vercel&perline=8&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgres,supabase,docker,git,linux,vercel&perline=8&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Ctensorflow%2Cpytorch%2Cpostgres%2Csupabase%2Cdocker%2Cgit%2Clinux%2Cvercel&perline=8&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Ctensorflow%2Cpytorch%2Cpostgres%2Csupabase%2Cdocker%2Cgit%2Clinux%2Cvercel&perline=8&theme=light" />
     <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgres,supabase,docker,git,linux,vercel&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, TensorFlow, PyTorch, PostgreSQL, Supabase, Docker, Git, Linux, Vercel" />
   </picture>
 </p>
