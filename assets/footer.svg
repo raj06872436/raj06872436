@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<style>.w{animation:s 9s linear infinite}@keyframes s{to{transform:translateX(-600px)}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#0891b2"/><stop offset="1" stop-color="#db2777"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="120" rx="24"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="120" fill="#07070d"/>
+<g class="w" opacity=".55"><path d="M0 80 Q150 40 300 80 T600 80 T900 80 T1200 80 T1500 80 T1800 80 V120 H0Z" fill="url(#g)"/></g>
+<text x="600" y="58" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#fff">Thanks for scrolling. Open a demo, break something, tell me.</text></g>
+</svg>
