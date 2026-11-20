@@ -46,7 +46,7 @@
 <img src="assets/h-activity.svg" width="100%" alt="03 Activity" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=20&background=0C0C14&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A5B4FC&dates=64748B&stroke=26263A" width="100%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=20&background=0C0C14&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A5B4FC&dates=64748B&stroke=26263A" width="62%" alt="GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj06872436&bg_color=0c0c14&color=a5b4fc&line=a78bfa&point=22d3ee&area=true&area_color=7c3aed&title_color=ffffff&hide_border=true&radius=20" width="100%" alt="Contribution graph" />
