@@ -5,9 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="#trophy-room"><img src="assets/btn-hire.svg" height="44" alt="Hiring? Start here" /></a>
-  <a href="#main-quests"><img src="assets/btn-dev.svg" height="44" alt="See the code" /></a>
-  <a href="#guestbook"><img src="assets/btn-play.svg" height="44" alt="Just playing" /></a>
+  <a href="#user-content-trophy-room"><img src="assets/btn-hire.svg" height="44" alt="Hiring? Start here" /></a>
+  <a href="#user-content-main-quests"><img src="assets/btn-dev.svg" height="44" alt="See the code" /></a>
+  <a href="#user-content-guestbook"><img src="assets/btn-play.svg" height="44" alt="Just playing" /></a>
 </p>
 
 <p align="center">
