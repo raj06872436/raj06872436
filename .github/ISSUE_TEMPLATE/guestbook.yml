@@ -1,0 +1,23 @@
+name: Sign the guestbook
+description: Put your name on the high-score board on Raj's profile
+title: "Guestbook: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! Your entry shows up on the profile once Raj approves it.
+        Keep it short: names up to 12 characters, messages up to 34.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: "PLAYER2"
+    validations:
+      required: true
+  - type: input
+    id: message
+    attributes:
+      label: Message
+      placeholder: "Nice speed gun!"
+    validations:
+      required: true
