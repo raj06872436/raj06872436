@@ -16,7 +16,7 @@
   <a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/btn-soulprint.svg" height="40" alt="Play SOULPRINT" /></a>
 </p>
 
-<a id="world-map"></a>
+<a name="world-map"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-map-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-map-light.svg" />
@@ -28,7 +28,7 @@
   <img src="assets/map-dark.svg" width="100%" alt="World map of my projects, best first: LARX, AGRI-X, MarketPulse, Speed Gun, SOULPRINT, Fraud Lab, TableSense, History Helper, LeetCode Sync" />
 </picture>
 
-<a id="main-quests"></a>
+<a name="main-quests"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-quests-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-quests-light.svg" />
@@ -56,7 +56,7 @@
 
 </details>
 
-<a id="trophy-room"></a>
+<a name="trophy-room"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-ach-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-ach-light.svg" />
@@ -99,7 +99,7 @@
   </picture>
 </p>
 
-<a id="guestbook"></a>
+<a name="guestbook"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-guest-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-guest-light.svg" />
