@@ -5,11 +5,18 @@
 </picture>
 
 <p align="center">
-  <a href="https://larx-three.vercel.app"><img src="assets/btn-larx.svg" height="46" alt="Play LARX" /></a>
-  <a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="assets/btn-speedgun.svg" height="46" alt="Play Speed Gun" /></a>
-  <a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/btn-soulprint.svg" height="46" alt="Play SOULPRINT" /></a>
+  <a href="#trophy-room"><img src="assets/btn-hire.svg" height="44" alt="Hiring? Start here" /></a>
+  <a href="#main-quests"><img src="assets/btn-dev.svg" height="44" alt="See the code" /></a>
+  <a href="#guestbook"><img src="assets/btn-play.svg" height="44" alt="Just playing" /></a>
 </p>
 
+<p align="center">
+  <a href="https://larx-three.vercel.app"><img src="assets/btn-larx.svg" height="40" alt="Play LARX" /></a>
+  <a href="https://raj06872436.github.io/cricket-speed-gun/"><img src="assets/btn-speedgun.svg" height="40" alt="Play Speed Gun" /></a>
+  <a href="https://raj06872436.github.io/SOULPRINT/"><img src="assets/btn-soulprint.svg" height="40" alt="Play SOULPRINT" /></a>
+</p>
+
+<a id="world-map"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-map-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-map-light.svg" />
@@ -21,6 +28,7 @@
   <img src="assets/map-dark.svg" width="100%" alt="World map of my projects, best first: LARX, AGRI-X, MarketPulse, Speed Gun, SOULPRINT, Fraud Lab, TableSense, History Helper, LeetCode Sync" />
 </picture>
 
+<a id="main-quests"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-quests-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-quests-light.svg" />
@@ -48,6 +56,7 @@
 
 </details>
 
+<a id="trophy-room"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-ach-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/t-ach-light.svg" />
@@ -69,7 +78,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Ctensorflow%2Cpytorch%2Cpostgres%2Csupabase%2Cdocker%2Cgit%2Clinux%2Cvercel&perline=8&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Ctensorflow%2Cpytorch%2Cpostgres%2Csupabase%2Cdocker%2Cgit%2Clinux%2Cvercel&perline=8&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgres,supabase,docker,git,linux,vercel&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, TensorFlow, PyTorch, PostgreSQL, Supabase, Docker, Git, Linux, Vercel" />
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ccpp%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Ctensorflow%2Cpytorch%2Cpostgres%2Csupabase%2Cdocker%2Cgit%2Clinux%2Cvercel&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, TensorFlow, PyTorch, PostgreSQL, Supabase, Docker, Git, Linux, Vercel" />
   </picture>
 </p>
 
@@ -80,11 +89,7 @@
 </picture>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=0&card_width=600&background=140C2B&ring=FF3EA5&fire=FFD319&currStreakNum=FFFFFF&currStreakLabel=FFD319&sideNums=2DE2E6&sideLabels=F4F1FF&dates=8A7FB0&stroke=4B2A8A" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=0&card_width=600&background=FFF4D6&ring=C0156A&fire=B45F00&currStreakNum=1B1340&currStreakLabel=B45F00&sideNums=0B6F80&sideLabels=1B1340&dates=6B5F99&stroke=ECD9A6" />
-    <img src="https://streak-stats.demolab.com?user=raj06872436&hide_border=true&border_radius=0&card_width=600&background=140C2B&ring=FF3EA5&fire=FFD319&currStreakNum=FFFFFF&currStreakLabel=FFD319&sideNums=2DE2E6&sideLabels=F4F1FF&dates=8A7FB0&stroke=4B2A8A" width="62%" alt="Combo streak" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/raj06872436/raj06872436/output/scoreboard.svg" width="100%" alt="Live cricket scoreboard of my GitHub activity: runs are contributions, overs are active days" />
 </p>
 <p align="center">
   <picture>
@@ -93,6 +98,36 @@
     <img src="https://raw.githubusercontent.com/raj06872436/raj06872436/output/snake-arcade.svg" width="100%" alt="Snake playing on my contribution grid" />
   </picture>
 </p>
+
+<a id="guestbook"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-guest-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/t-guest-light.svg" />
+  <img src="assets/t-guest-dark.svg" width="100%" alt="Guestbook" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raj06872436/raj06872436/output/guestbook-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raj06872436/raj06872436/output/guestbook-light.svg" />
+  <img src="https://raw.githubusercontent.com/raj06872436/raj06872436/output/guestbook-dark.svg" width="100%" alt="Guestbook high scores" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/raj06872436/raj06872436/issues/new?template=guestbook.yml"><img src="assets/btn-sign.svg" height="50" alt="Sign the guestbook" /></a>
+</p>
+
+<details>
+<summary><b>&nbsp;↑ ↑ ↓ ↓ ← → ← → B A</b></summary>
+<br />
+
+**Cheat code accepted.** Some things you can't see from the outside:
+
+- The batter on the title screen is drawn square by square in code. No image editor was used.
+- Every letter on this page is drawn as shapes, so the pixel font looks the same on any device.
+- The scoreboard and the guestbook redraw themselves every day.
+- AGRI-X's LesionNet still gets 98.7% right when the photo background is swapped out. Standard models drop to 45-81%.
+- Speed Gun is most accurate with slow-motion video at 120 or 240 frames per second.
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />

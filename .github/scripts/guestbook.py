@@ -19,7 +19,9 @@ KEEP = 8
 def clean(s, n):
     s = re.sub(r"[^A-Za-z0-9 .,!?'&:()+#@-]", "", s or "").strip()
     s = re.sub(r"\s+", " ", s)
-    return s[:n]
+    if len(s) > n:
+        s = s[:n].rsplit(" ", 1)[0] if " " in s[:n] else s[:n]
+    return s
 
 
 def field(body, label):
