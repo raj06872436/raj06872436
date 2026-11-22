@@ -46,6 +46,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUT_DIR: ${{ github.workspace }}/dist
         run: |
+          sudo chown -R "$USER" dist
           pip install --quiet fonttools brotli
           cp prev/guestbook.json dist/ 2>/dev/null || true
           cd .github/scripts
